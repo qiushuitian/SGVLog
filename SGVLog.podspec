@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SGVLog'
-  s.version          = '1.0.0-20171113100420_96141703'
+  s.version          = '1.0.0.dev_20171113101021_96141703'
   s.summary          = 'A short description of SGVLog.'
 
 # This description is used to generate tags and improve search results.
