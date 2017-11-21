@@ -4,7 +4,7 @@
 //
 //  Created by jian deng on 19/10/2017.
 //  Copyright © 2017 jian deng. All rights reserved.
-//
+//  version: 1.0.2
 
 #import <Foundation/Foundation.h>
 
